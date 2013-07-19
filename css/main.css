@@ -30,13 +30,13 @@ h3 {
   font-size: 1.25em;
 line-height: 1.3em;
 margin-bottom: 20px;
-font-weight: normal;
+font-weight: normal !important;
 }
 
 h1 { margin-bottom: 1em; font-family: "Droid Serif", serif; font-size: 36px;}
 p { margin: 1em 0; }
 
-a         { color: color: rgb(0, 102, 170); text-decoration: none; }
+a         { color: rgb(0, 102, 170); text-decoration: none; }
 a:hover, a:focus   { color: #000; text-decoration: underline !important; }
 a:visited { color: #607BAA; text-decoration: none;}
 
